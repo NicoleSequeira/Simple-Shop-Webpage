@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Yui Hirasawa Nendoroid",
+    "price": 79.99,
+    "category": "Nendoroids",
+    "description": "A nendoroid of Yui Hirasawa from the anime series 'K-on!'",
+    "image": "https://i.pinimg.com/736x/c6/db/05/c6db05be3abbf3cbb308ad71febe1d62.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Reo Mikage Nendoroid",
+    "price": 199.99,
+    "category": "Nendoroids",
+    "description": "A nendoroid of Reo Mikage from the anime series 'Blue Lock!'",
+    "image": "https://i.pinimg.com/736x/4e/62/8f/4e628f7c4b5e4c065a0d602707ee5577.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kenma Kozume Nendoroid",
+    "price": 49.99,
+    "category": "Nendoroids",
+    "description": "A nendoroid of Kenma Kozume from the anime series 'Haikyuu!'",
+    "image": "https://i.pinimg.com/736x/78/f6/51/78f651991979b4dc9e7e0f00cc14b11b.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ochaco Uraraka Nendoroid",
+    "price": 24.99,
+    "category": "Nendoroids",
+    "description": "A nendoroid of Ochaco Uraraka from the anime series 'My Hero Academia!'",
+    "image": "https://i.pinimg.com/736x/bc/4f/56/bc4f561863f64acc2664c17160b9a924.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chihiro Fujisaki Nendoroid",
+    "price": 34.99,
+    "category": "Nendoroids",
+    "description": "A nendoroid of Chihiro Fujisaki from the anime series 'Dangonronpa'",
+    "image": "https://i.pinimg.com/736x/d6/9e/5c/d69e5caaa6f5bd2ec87c6596363337eb.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Megumi Fushiguro Nendoroid",
+    "price": 59.99,
+    "category": "Nendoroids",
+    "description": "A nendoroid of Megumi Fushiguro from the anime series 'Jujutsu Kaisen!'",
+    "image": "https://i.pinimg.com/736x/99/81/e5/9981e5c01ff7d1c4f763e42ae6a19bb6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Demon Slayer Figure Set",
+    "price": 149.99,
+    "category": "Figures",
+    "description": "High-quality figure set featuring the Hashira from Demon Slayer",
+    "image": "https://i.pinimg.com/1200x/0a/c6/6d/0ac66d3dfb4511fbc5a96466557fc81b.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Attack on Titan Scout Regiment Cape",
+    "price": 89.99,
+    "category": "Apparel",
+    "description": "Official Scout Regiment cape from Attack on Titan, perfect for cosplay",
+    "image": "https://i.pinimg.com/1200x/0c/53/9b/0c539b8e9720d0017b89ed8b4285565c.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Naruto Cloak And Headband Collection",
+    "price": 39.99,
+    "category": "Apparel",
+    "description": "Set of Cloud Cloak and Headband from the Naruto series",
+    "image": "https://i.pinimg.com/1200x/54/27/df/5427df2b0a2356561bf678e08107e550.jpg"
+  },
+  {
+    "id": 10,
+    "name": "One Piece Luffy Figure",
+    "price": 124.99,
+    "category": "Figures",
+    "description": "Premium Monkey D. Luffy figure in Gear Fourth form",
+    "image": "https://i.pinimg.com/1200x/b3/d6/00/b3d600a4e7c9825ee1d15345414f2a67.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Studio Ghibli Music Box",
+    "price": 64.99,
+    "category": "Collectibles",
+    "description": "Beautiful music box playing 'Castle in the Sky' theme with rotating Totoro",
+    "image": "https://i.pinimg.com/1200x/ad/51/c2/ad51c2265413dee2445710eeb39c8091.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pokemon Pikachu Plush",
+    "price": 29.99,
+    "category": "Plushies",
+    "description": "Soft and cuddly official Pokemon Pikachu plush toy",
+    "image": "https://i.pinimg.com/1200x/af/63/2c/af632c6a3ec25aab910f24fcc59652c7.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dragon Ball Z Scouter",
+    "price": 79.99,
+    "category": "Accessories",
+    "description": "Functional LED scouter replica from Dragon Ball Z",
+    "image": "https://i.pinimg.com/1200x/25/1e/f2/251ef20c4d7e066cd44d248896943bd9.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Sailor Moon Wand Replica",
+    "price": 94.99,
+    "category": "Collectibles",
+    "description": "Detailed replica of Sailor Moon's transformation wand with lights and sounds",
+    "image": "https://images.bigbadtoystore.com/images/p/full/2022/09/6a7eaa11-b8a0-4af5-97f6-b224e761b7df.jpg"
+  },
+  {
+    "id": 15,
+    "name": "My Hero Academia Deku Costume",
+    "price": 119.99,
+    "category": "Apparel",
+    "description": "Complete Deku hero costume with mask and gloves",
+    "image": "https://i.pinimg.com/1200x/75/74/01/75740190506ecf0dcaef93ae0fcddd29.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tokyo Ghoul Kaneki Mask",
+    "price": 44.99,
+    "category": "Accessories",
+    "description": "High-quality resin Kaneki mask from Tokyo Ghoul",
+    "image": "https://i.pinimg.com/1200x/57/0a/c5/570ac5eb84668fefbb1905da429b36fc.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Jujutsu Kaisen Gojo Figure",
+    "price": 159.99,
+    "category": "Figures",
+    "description": "Satoru Gojo figure with removable blindfold and special effects base",
+    "image": "https://i.pinimg.com/1200x/74/71/d2/7471d2b66b454279dab777296818078d.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Spirited Away No-Face Plush",
+    "price": 34.99,
+    "category": "Plushies",
+    "description": "Adorable No-Face plush from Studio Ghibli's Spirited Away",
+    "image": "https://i.pinimg.com/1200x/15/a5/90/15a590638a0cf0f1960f0fd46591826c.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Fullmetal Alchemist Pocket Watch",
+    "price": 54.99,
+    "category": "Accessories",
+    "description": "Edward Elric's State Alchemist pocket watch replica",
+    "image": "https://i.pinimg.com/1200x/22/cf/9c/22cf9c9a01385280b1d3a81ddb23dff7.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Bleach Ichigo Sword Replica",
+    "price": 199.99,
+    "category": "Collectibles",
+    "description": "Full-size Zangetsu sword replica from Bleach anime",
+    "image": "https://i.pinimg.com/736x/cd/b2/f6/cdb2f679b2a065f43d416cc15bcb29bc.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Haikyuu Team Jersey Set",
+    "price": 74.99,
+    "category": "Apparel",
+    "description": "Official Karasuno High School volleyball jersey",
+    "image": "https://i.pinimg.com/1200x/15/15/0a/15150af1f176ed0fb54358d25c110f0a.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Death Note Light's Notebook",
+    "price": 24.99,
+    "category": "Collectibles",
+    "description": "Replica Death Note with rules written inside",
+    "image": "https://i.pinimg.com/736x/de/1f/2e/de1f2e79cdf2147255be8087a93327e3.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Cowboy Bebop Spike Figure",
+    "price": 134.99,
+    "category": "Figures",
+    "description": "Detailed Spike Spiegel figure with cigarette and gun accessories",
+    "image": "https://i.pinimg.com/736x/60/e8/5c/60e85caf7687aff7805185ffb96a2e3f.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Evangelion Unit-01 Model Kit",
+    "price": 89.99,
+    "category": "Model Kits",
+    "description": "High-grade Evangelion Unit-01 plastic model kit",
+    "image": "https://i.pinimg.com/1200x/1c/e5/96/1ce596c61165c2e5fcc278d1d8c66386.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Kimetsu no Yaiba Tanjiro Earrings",
+    "price": 19.99,
+    "category": "Accessories",
+    "description": "Hanafuda earrings worn by Tanjiro Kamado",
+    "image": "https://i.pinimg.com/1200x/e1/48/9f/e1489ff8f8c031ec7cbf756e3299d4c7.jpg"
+  }
+]
